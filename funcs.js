@@ -35,7 +35,7 @@ const app = {
           {
             name: "Ôm Trọn Nỗi Nhớ",
             singer: "RUM",
-            path: "/assets/musics/RUM - Ôm Trọn Nỗi Nhớ _ Lyric Video.mp3",
+            path: "assets/musics/RUM - Ôm Trọn Nỗi Nhớ _ Lyric Video.mp3",
             image:
               "assets/images/omtronnoinho.jpg"
           },
